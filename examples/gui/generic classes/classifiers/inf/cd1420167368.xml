@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<FileName>cd1420167368</FileName>
+<ClassifierType>CvBoost</ClassifierType>
+<PositiveFeatureSets>
+  fd1411355531 fd1411355712</PositiveFeatureSets>
+<NegativeFeatureSets>
+  fd1411355611 fd1411355767 fd1406851828</NegativeFeatureSets>
+</opencv_storage>

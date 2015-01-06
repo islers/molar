@@ -1,0 +1,21 @@
+<Color>
+	<B>
+		<double value="140" />
+	</B>
+	<G>
+		<double value="10" />
+	</G>
+	<R>
+		<double value="210" />
+	</R>
+</Color>
+<CreationDate value="Thu Oct 30 22:50:41 2014"/>
+<DynamicsOptions/>
+<DynamicsType value="NonHoloKalman2D"/>
+<FeatureSets>
+	<fd1411355611 value=""/>
+	<fd1411355767 value=""/>
+</FeatureSets>
+<Info value="Thin helix, Kalman filtered"/>
+<Name value="ThinHelix_KF"/>
+<PreferredClassifierType value="CvBoost"/>

@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/AlgorithmChooser.qml</file>
+        <file>qml/AlgorithmListModel.qml</file>
+        <file>qml/AlgorithmSetting.qml</file>
+        <file>qml/ClassificationContent.qml</file>
+        <file>qml/main.qml</file>
+        <file>qml/ModarButton.qml</file>
+        <file>qml/ModarSwitchButton.qml</file>
+        <file>qml/MolarSettings.qml</file>
+        <file>qml/NewFeatureSet.qml</file>
+        <file>qml/NewObjectType.qml</file>
+        <file>qml/NewStreamWindow.qml</file>
+        <file>qml/SceneControlContent.qml</file>
+        <file>qml/TypeChooser.qml</file>
+        <file>qml/WhiteButton.qml</file>
+        <file>img/arrow_b.png</file>
+        <file>img/arrow_up_b.png</file>
+        <file>img/arrow_up_w.png</file>
+        <file>img/arrow_w.png</file>
+        <file>img/database-arrow-up-icon.png</file>
+        <file>img/edit.png</file>
+        <file>img/Files-New-File-icon.png</file>
+        <file>img/Folder-Open-icon.png</file>
+        <file>img/inputImage.jpg</file>
+        <file>img/little_arrow_down.png</file>
+        <file>img/little_arrow_up.png</file>
+        <file>img/logo.png</file>
+        <file>img/movie-icon.png</file>
+        <file>img/Movies-icon.png</file>
+        <file>img/no_source.png</file>
+        <file>img/Pictures-icon.png</file>
+        <file>img/Save-icon.png</file>
+        <file>img/swarm.png</file>
+    </qresource>
+</RCC>
