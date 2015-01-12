@@ -9,4 +9,4 @@ To build it on Linux, using cmake and make you can follow these instructions:<br
 - cd build<br />
 - cmake ..<br />
 - make
-- <i>The executable will be written to the headless_example folder</i>
+- <i>The executable will be written to the headless folder</i>
